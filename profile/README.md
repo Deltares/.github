@@ -1,5 +1,5 @@
 # Deltares
-![](motto.png)
+![](profile/motto.png)
 
 [Deltares](https://deltares.nl/en) is an independent institute for applied research in the field of water and subsurface. Throughout the world, we work on smart solutions, innovations and applications for people, environment and society.
 
